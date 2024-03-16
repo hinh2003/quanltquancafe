@@ -1,0 +1,33 @@
+C:\Users\user\Google Drive\HK 2 năm 2\Lập trình Ứng Dụng\DoAn\project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Google Drive\HK 2 năm 2\Lập trình Ứng Dụng\DoAn\project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Google Drive\HK 2 năm 2\Lập trình Ứng Dụng\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\bin\Debug\project.exe.config
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\bin\Debug\project.exe
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\bin\Debug\project.pdb
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\bin\Debug\Interop.WMPLib.dll
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\bin\Debug\AxInterop.WMPLib.dll
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\CoffeShopManagement.csproj.AssemblyReference.cache
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\Interop.WMPLib.dll
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.frmAdAccount.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.frmAddFood.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.Block.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.ChangePersional.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.Customer.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.frmAdCategory.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.frmAdFood.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.frmAdTables.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.ListBill.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.frmLogin.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.frmMain.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.frmPay.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.PlusTable.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.Properties.Resources.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.ReFood.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.ReplaceTable.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.Staff.resources
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.cache
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\CoffeShopManagement.csproj.CoreCompileInputs.cache
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.exe
+E:\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\Phan-mem-quan-ly-quan-coffee-BTL-.Net-main\project\obj\x86\Debug\project.pdb
